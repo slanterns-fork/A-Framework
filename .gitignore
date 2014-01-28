@@ -1,0 +1,45 @@
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db 
+
+# Folder config file
+Desktop.ini
+*.lnk
+
+#############
+## Other
+#############
+bin
+build
+references
+debug
+*.bot
+
+#############
+## UNIX
+#############
+*~
+
+#############
+## Python
+#############
+
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+
